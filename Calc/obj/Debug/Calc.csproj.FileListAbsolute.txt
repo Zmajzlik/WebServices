@@ -1,0 +1,13 @@
+c:\users\student\documents\visual studio 2015\Projects\Calc\Calc\bin\Calc.dll.config
+c:\users\student\documents\visual studio 2015\Projects\Calc\Calc\bin\Calc.dll
+c:\users\student\documents\visual studio 2015\Projects\Calc\Calc\bin\Calc.pdb
+c:\users\student\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.dll
+c:\users\student\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Artur\Desktop\Calc\Calc\bin\Calc.dll.config
+C:\Users\Artur\Desktop\Calc\Calc\bin\Calc.dll
+C:\Users\Artur\Desktop\Calc\Calc\bin\Calc.pdb
+C:\Users\Artur\Desktop\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Calc\Calc\obj\Debug\Calc.dll
+C:\Users\Artur\Desktop\Calc\Calc\obj\Debug\Calc.pdb
