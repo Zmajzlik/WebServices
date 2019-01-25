@@ -44,6 +44,7 @@ namespace Calc
         {
             return a % b;
         }
+        [WebMethod]
         public double Pow(int a, int b)
         {
             return Math.Pow(a,b);
